@@ -1,20 +1,28 @@
 # Stochastic-Processes
 In this repository, I want to share several homework assignments from the Stochastic Processes course along with my own solutions.
 
-[![Static Badge](https://img.shields.io/badge/Homework-1-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW1) Review of Engineering Statistics and Probability
+## [![Static Badge](https://img.shields.io/badge/Homework-1-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW1) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-1.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/SP_HW1_810103084_Panahi.pdf)
+* ***Review of Engineering Statistics and Probability***
 
-[![Static Badge](https://img.shields.io/badge/Homework-2-cyan)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW2) Characteristic Function and Moment-Generating Function
+## [![Static Badge](https://img.shields.io/badge/Homework-2-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW2) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-2.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW2/SP_HW#02_810103084_Panahi.pdf)
+* ***Characteristic Function and Moment-Generating Function***
 
-[![Static Badge](https://img.shields.io/badge/Homework-3-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW3) Random Vectors and Whitening
 
-[![Static Badge](https://img.shields.io/badge/Homework-4-orange)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW4) Random Sequences and Types of Convergence
+## [![Static Badge](https://img.shields.io/badge/Homework-3-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW3) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-3.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW3/SP_HW03_810103084.pdf)
+* ***Random Vectors and Whitening***
 
-[![Static Badge](https://img.shields.io/badge/Homework-5-red)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW5) Stochastic Processes
+## [![Static Badge](https://img.shields.io/badge/Homework-4-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW4) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-4.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW4/HW4_SP_810103084.pdf)
+* ***Random Sequences and Types of Convergence***
 
-[![Static Badge](https://img.shields.io/badge/Homework-6-pink)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW6) Ergodic Processes (Ergodicity)
+## [![Static Badge](https://img.shields.io/badge/Homework-5-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW5) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-5.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW5/HW#05_SP_810103084 (1).pdf)
+* ***Stochastic Processes***
 
-[![Static Badge](https://img.shields.io/badge/Homework-7-purpule)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW7) Power Spectral Density (PSD)
+## [![Static Badge](https://img.shields.io/badge/Homework-6-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW6) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-6.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW6/SP_HW#06_810103084 (1).pdf)
+* ***Ergodic Processes (Ergodicity)***
 
-[![Static Badge](https://img.shields.io/badge/Homework-8-green)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW8)
+## [![Static Badge](https://img.shields.io/badge/Homework-7-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW7) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-7.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW7/SP_HW#07_810103084_Panahi (1).pdf)
+* ***Power Spectral Density (PSD)***
 
-[![Static Badge](https://img.shields.io/badge/Homework-9-brown)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW9)
+
+
+
