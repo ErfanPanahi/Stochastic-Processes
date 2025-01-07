@@ -23,6 +23,7 @@ In this repository, I want to share several homework assignments from the Stocha
 ## [![Static Badge](https://img.shields.io/badge/Homework-7-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW7) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW1/hw-7.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW7/SP_HW#07_810103084_Panahi%20(1).pdf)
 * ***Power Spectral Density (PSD)***
 
-
+## [![Static Badge](https://img.shields.io/badge/Homework-8-yellow)](https://github.com/ErfanPanahi/Stochastic-Processes/tree/main/HW8) [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW8/hw-8.pdf) [![Static Badge](https://img.shields.io/badge/Answers-blue)](https://github.com/ErfanPanahi/Stochastic-Processes/blob/main/HW8/SP_HW%2308_810103084.pdf)
+* ***Discrete-time processes, their autocorrelation function, and PSD***
 
 
